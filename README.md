@@ -35,6 +35,11 @@ click the fish to add a note
 
 <img src="Startpage.png" width="280">
 
+#### Create note from every place in the app 
+(even inn settings)
+
+<img src="Create.png" width="280">
+
 #### List notes
 List your notes
 
@@ -44,3 +49,10 @@ List your notes
 One of aunt Karens kids has a birthday soon. 
 
 <img src="search.png" width="280">
+
+#### add a note from the coverpage
+
+<img src="Coverpage.png" width="280">
+
+
+
