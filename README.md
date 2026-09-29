@@ -30,3 +30,17 @@ NB:
 This app is built upon original ideas, functional requirements, and design concepts created by the developer. AI tools were extensively used to assist with the coding process and translation.
 
 
+#### Mainpage
+click the fish to add a note
+
+<img src="Startpage.png" width="280">
+
+#### List notes
+List your notes
+
+<img src="ListNotes.png" width="280">
+
+#### Search
+One of aunt Karens kids has a birthday soon. 
+
+<img src="search.png" width="280">
